@@ -15,4 +15,33 @@ A simple and fun Python-based quiz game that challenges players to answer multip
 ---
 
 ## 📁 Project Structure
+quiz_game/
+│
+├── quiz.py # Main Python script
+├── questions.json # Question bank
+└── README.md # Project documentation
 
+yaml
+Copy
+Edit
+
+---
+
+## 🚀 Getting Started
+
+### 🔧 Requirements
+
+- Python 3.6 or higher
+- No external libraries required
+
+### ▶️ How to Run
+
+1. Clone or download this repository:
+   ```bash
+   cd quiz_game
+Run the quiz game:
+
+bash
+Copy
+Edit
+python quiz.py
