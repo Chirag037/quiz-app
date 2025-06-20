@@ -1,0 +1,17 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["Berlin", "Madrid", "Paris", "Rome"],
+        "answer": 2
+    },
+    {
+        "question": "Which language is used for web development?",
+        "options": ["Python", "HTML", "C", "Java"],
+        "answer": 1
+    },
+    {
+        "question": "What does CPU stand for?",
+        "options": ["Central Process Unit", "Central Processing Unit", "Computer Personal Unit", "Central Processor Utility"],
+        "answer": 1
+    }
+]
