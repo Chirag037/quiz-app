@@ -24,7 +24,7 @@ quiz_game/
 yaml
 Copy
 Edit
-
+close
 ---
 
 ## 🚀 Getting Started
